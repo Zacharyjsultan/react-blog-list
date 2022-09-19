@@ -1,5 +1,3 @@
-// useEffect useState getBlogs
-
 import { useEffect, useState } from 'react';
 import { getBlogs } from '../services/blogs';
 
